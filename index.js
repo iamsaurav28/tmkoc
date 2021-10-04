@@ -19,7 +19,7 @@ if (question1 === "natukaka") {
   score = score + 1;
   console.log("score is:" + score)
 } else { 
-  console.log('you are wrong idiot')
+  console.log('you are wrong ')
   score = score - 1;
   console.log("score is:" + score)
 }
@@ -33,7 +33,7 @@ if (question2 === "yes") {
   score = score + 1;
   console.log("score is:" + score)
 } else { 
-  console.log('you are wrong idiot')
+  console.log('you are wrong ')
   score = score - 1;
   console.log("score is:" + score)
 }
@@ -45,7 +45,7 @@ if (question3 === "no") {
   score = score + 1;
   console.log("score is:" + score)
 } else { 
-  console.log('you are wrong idiot')
+  console.log('you are wrong ')
   score = score - 1;
   console.log("score is:" + score)
 }
@@ -57,7 +57,7 @@ if (question4 === "gulabkumar") {
   score = score + 1;
   console.log("score is:" + score)
 } else { 
-  console.log('you are wrong idiot')
+  console.log('you are wrong ')
   score = score - 1;
   console.log("score is:" + score)
 }
@@ -70,7 +70,7 @@ if (question5 === "sundar") {
   score = score + 1;
   console.log("score is:" + score)
 } else { 
-  console.log('you are wrong idiot')
+  console.log('you are wrong ')
   score = score - 1;
   console.log("score is:" + score)
 }
